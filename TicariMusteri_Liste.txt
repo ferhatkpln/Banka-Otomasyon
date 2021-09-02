@@ -1,0 +1,4 @@
+ÝSÝM		SOYÝSÝM		CEP NO		TC NO		MUSTERÝ NO
+f		f		053125651**	***********	2466
+ferhat		kaplan		053125651**	***********	2920
+ferhat		kaplan		053125651**	***********	1221

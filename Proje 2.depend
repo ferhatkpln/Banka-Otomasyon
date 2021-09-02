@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558293866 source:c:\users\bilgisayar\desktop\proje 2\main.c
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
